@@ -1,0 +1,7 @@
+C:\Users\JONAS\source\repos\TriangleArea\bin\Debug\TriangleArea.exe.config
+C:\Users\JONAS\source\repos\TriangleArea\bin\Debug\TriangleArea.exe
+C:\Users\JONAS\source\repos\TriangleArea\bin\Debug\TriangleArea.pdb
+C:\Users\JONAS\source\repos\TriangleArea\obj\Debug\TriangleArea.csproj.AssemblyReference.cache
+C:\Users\JONAS\source\repos\TriangleArea\obj\Debug\TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\JONAS\source\repos\TriangleArea\obj\Debug\TriangleArea.exe
+C:\Users\JONAS\source\repos\TriangleArea\obj\Debug\TriangleArea.pdb
